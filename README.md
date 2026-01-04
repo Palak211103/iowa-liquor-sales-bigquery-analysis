@@ -56,7 +56,7 @@ An interactive dashboard was created to visualize insights derived from BigQuery
 - **Sales Distribution by Month**
 
 🔗 **Looker Studio Dashboard:**  
-https://lookerstudio.google.com/u/0/reporting/093b07fb-ab2a-481f-b1d2-ef1e235a03ee/page/p_wrxzincozd/edit
+https://lookerstudio.google.com/u/0/reporting/093b07fb-ab2a-481f-b1d2-ef1e235a03ee/page/tEnnC/edit
 
 ---
 
